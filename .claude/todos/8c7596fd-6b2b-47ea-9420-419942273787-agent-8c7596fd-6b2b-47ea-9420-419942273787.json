@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Read existing Dashboard and project structure",
+    "status": "completed",
+    "activeForm": "Reading existing codebase"
+  },
+  {
+    "content": "Update design system in index.css",
+    "status": "completed",
+    "activeForm": "Updating design system"
+  },
+  {
+    "content": "Create habit tracker components",
+    "status": "completed",
+    "activeForm": "Creating habit tracker components"
+  },
+  {
+    "content": "Create yearly overview heatmap",
+    "status": "completed",
+    "activeForm": "Creating yearly overview"
+  },
+  {
+    "content": "Create Dashboard page",
+    "status": "completed",
+    "activeForm": "Creating Dashboard page"
+  },
+  {
+    "content": "Build and test the app",
+    "status": "completed",
+    "activeForm": "Building and testing"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
